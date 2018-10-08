@@ -1,0 +1,39 @@
+C:\Users\temp\Desktop\LibSVMsharp-master\LibSVMsharp\bin\Debug\libsvm.dll
+C:\Users\temp\Desktop\LibSVMsharp-master\LibSVMsharp\bin\Debug\LIBSVM_COPYRIGHT
+C:\Users\temp\Desktop\LibSVMsharp-master\LibSVMsharp\bin\Debug\LibSVMsharp.dll
+C:\Users\temp\Desktop\LibSVMsharp-master\LibSVMsharp\bin\Debug\LibSVMsharp.pdb
+C:\Users\temp\Desktop\LibSVMsharp-master\LibSVMsharp\obj\Debug\LibSVMsharp.dll
+C:\Users\temp\Desktop\LibSVMsharp-master\LibSVMsharp\obj\Debug\LibSVMsharp.pdb
+C:\Users\temp\Desktop\LibSVMsharp-master\LibSVMsharp\obj\Debug\LibSVMsharp.csprojResolveAssemblyReference.cache
+C:\Users\temp\Desktop\project\LibSVMsharp-master\LibSVMsharp\bin\Debug\libsvm.dll
+C:\Users\temp\Desktop\project\LibSVMsharp-master\LibSVMsharp\bin\Debug\LIBSVM_COPYRIGHT
+C:\Users\temp\Desktop\project\LibSVMsharp-master\LibSVMsharp\bin\Debug\LibSVMsharp.dll
+C:\Users\temp\Desktop\project\LibSVMsharp-master\LibSVMsharp\bin\Debug\LibSVMsharp.pdb
+C:\Users\temp\Desktop\project\LibSVMsharp-master\LibSVMsharp\obj\Debug\LibSVMsharp.csprojResolveAssemblyReference.cache
+C:\Users\temp\Desktop\project\LibSVMsharp-master\LibSVMsharp\obj\Debug\LibSVMsharp.dll
+C:\Users\temp\Desktop\project\LibSVMsharp-master\LibSVMsharp\obj\Debug\LibSVMsharp.pdb
+C:\Users\temp\Desktop\LibSVMsharp_0804\LibSVMsharp\bin\Debug\libsvm.dll
+C:\Users\temp\Desktop\LibSVMsharp_0804\LibSVMsharp\bin\Debug\LIBSVM_COPYRIGHT
+C:\Users\temp\Desktop\LibSVMsharp_0804\LibSVMsharp\bin\Debug\LibSVMsharp.dll
+C:\Users\temp\Desktop\LibSVMsharp_0804\LibSVMsharp\bin\Debug\LibSVMsharp.pdb
+C:\Users\temp\Desktop\LibSVMsharp_0804\LibSVMsharp\obj\Debug\LibSVMsharp.csprojResolveAssemblyReference.cache
+C:\Users\temp\Desktop\LibSVMsharp_0804\LibSVMsharp\obj\Debug\LibSVMsharp.dll
+C:\Users\temp\Desktop\LibSVMsharp_0804\LibSVMsharp\obj\Debug\LibSVMsharp.pdb
+C:\Users\temp\Desktop\FallDetection_0804\LibSVMsharp\bin\Debug\libsvm.dll
+C:\Users\temp\Desktop\FallDetection_0804\LibSVMsharp\bin\Debug\LIBSVM_COPYRIGHT
+C:\Users\temp\Desktop\FallDetection_0804\LibSVMsharp\bin\Debug\LibSVMsharp.dll
+C:\Users\temp\Desktop\FallDetection_0804\LibSVMsharp\bin\Debug\LibSVMsharp.pdb
+C:\Users\temp\Desktop\FallDetection_0804\LibSVMsharp\obj\Debug\LibSVMsharp.csprojResolveAssemblyReference.cache
+C:\Users\temp\Desktop\FallDetection_0804\LibSVMsharp\obj\Debug\LibSVMsharp.dll
+C:\Users\temp\Desktop\FallDetection_0804\LibSVMsharp\obj\Debug\LibSVMsharp.pdb
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\LibSVMsharp\bin\Debug\libsvm.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\LibSVMsharp\bin\Debug\LIBSVM_COPYRIGHT
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\LibSVMsharp\bin\Debug\LibSVMsharp.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\LibSVMsharp\bin\Debug\LibSVMsharp.pdb
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\LibSVMsharp\obj\Debug\LibSVMsharp.csprojResolveAssemblyReference.cache
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\LibSVMsharp\obj\Debug\LibSVMsharp.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\LibSVMsharp\obj\Debug\LibSVMsharp.pdb
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\LibSVMsharp\obj\Debug\LibSVMsharp.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\LibSVMsharp\obj\Debug\LibSVMsharp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\LibSVMsharp\obj\Debug\LibSVMsharp.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\LibSVMsharp\obj\Debug\LibSVMsharp.pdb

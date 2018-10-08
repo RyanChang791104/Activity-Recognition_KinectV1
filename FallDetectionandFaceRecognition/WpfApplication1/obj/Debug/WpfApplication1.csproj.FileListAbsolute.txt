@@ -1,0 +1,384 @@
+\\Mac\Home\Downloads\FallDetection-master\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+\\Mac\Home\Downloads\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\FallDetection-master\WpfApplication1\obj\Debug\MainWindow.baml
+\\Mac\Home\Downloads\FallDetection-master\WpfApplication1\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Downloads\FallDetection-master\WpfApplication1\obj\Debug\App.g.cs
+\\Mac\Home\Downloads\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+\\Mac\Home\Downloads\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+\\Mac\Home\Downloads\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+\\Mac\Home\Downloads\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\kinect\FallDetection-master\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+\\Mac\Home\Desktop\kinect\FallDetection-master\WpfApplication1\bin\Debug\WpfApplication1.exe
+\\Mac\Home\Desktop\kinect\FallDetection-master\WpfApplication1\bin\Debug\WpfApplication1.pdb
+\\Mac\Home\Desktop\kinect\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\kinect\FallDetection-master\WpfApplication1\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\kinect\FallDetection-master\WpfApplication1\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\kinect\FallDetection-master\WpfApplication1\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\kinect\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+\\Mac\Home\Desktop\kinect\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+\\Mac\Home\Desktop\kinect\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+\\Mac\Home\Desktop\kinect\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\kinect\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.exe
+\\Mac\Home\Desktop\kinect\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.pdb
+\\Mac\Home\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+\\Mac\Home\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.exe
+\\Mac\Home\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.pdb
+\\Mac\Home\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\bin\Debug\WpfApplication1.exe
+\\Mac\Home\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\bin\Debug\WpfApplication1.pdb
+\\Mac\Home\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+\\Mac\Home\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+\\Mac\Home\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+\\Mac\Home\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\temp\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\temp\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\temp\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\temp\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\temp\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\temp\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\temp\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\temp\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\temp\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\temp\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\temp\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\temp\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\temp\Desktop\kinect\Test ok\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\IronPython.dll
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\IronPython.Modules.dll
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\IronPython.SQLite.dll
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\IronPython.Wpf.dll
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\Microsoft.Scripting.dll
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\NumpyDotNet.dll
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\IronPython.SQLite.xml
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\IronPython.Wpf.xml
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\Microsoft.Scripting.xml
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.xml
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.Direct3D10.dll
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.DXGI.dll
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.Direct3D10.xml
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.DXGI.xml
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.D3DCompiler.xml
+C:\Users\temp\Desktop\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.csproj.ResolveComReference.cache
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.csproj.ResolveComReference.cache
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\IronPython.dll
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\IronPython.Modules.dll
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\IronPython.SQLite.dll
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\IronPython.Wpf.dll
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\Microsoft.Scripting.dll
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\NumpyDotNet.dll
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.Direct3D10.dll
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.DXGI.dll
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\IronPython.SQLite.xml
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\IronPython.Wpf.xml
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\Microsoft.Scripting.xml
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.xml
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.Direct3D10.xml
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.DXGI.xml
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\bin\Debug\SharpDX.D3DCompiler.xml
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\temp\Desktop\project\0324 combine\FallDetection-master\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\Emgu.CV.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\Emgu.Util.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\LibSVMsharp.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\ZedGraph.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\LibSVMsharp.pdb
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\opencv_core231.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\opencv_imgproc231.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\cvextern.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\npp32_40_17.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\opencv_calib3d231.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\opencv_contrib231.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\opencv_features2d231.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\opencv_ffmpeg.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\opencv_flann231.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\opencv_gpu231.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\opencv_highgui231.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\opencv_legacy231.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\opencv_ml231.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\opencv_objdetect231.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\opencv_video231.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\cudart32_40_17.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\bin\Debug\cufft32_40_17.dll
+C:\Users\temp\Desktop\FallDetection_0804\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Emgu.CV.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Emgu.Util.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\ZedGraph.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\cudart32_40_17.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\cufft32_40_17.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\cvextern.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\npp32_40_17.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_calib3d231.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_contrib231.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_core231.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_features2d231.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_ffmpeg.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_flann231.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_gpu231.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_highgui231.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_imgproc231.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_legacy231.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_ml231.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_objdetect231.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_video231.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\packages.config
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\LibSVMsharp.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\LibSVMsharp.pdb
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\IronPlot.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\IronPython.dll
+C:\Users\temp\Desktop\0830_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\cvextern.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Emgu.CV.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Emgu.Util.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\ZedGraph.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\packages.config
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\LibSVMsharp.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\LibSVMsharp.pdb
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\cublas32_50_35.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\cudart32_50_35.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\cufft32_50_35.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\npp32_50_35.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_calib3d249.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_contrib249.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_core249.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_features2d249.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_ffmpeg249.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_flann249.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_gpu249.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_highgui249.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_imgproc249.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_legacy249.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_ml249.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_nonfree249.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_objdetect249.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_photo249.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_stitching249.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_video249.dll
+C:\Users\temp\Desktop\0908_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_videostab249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\cublas32_50_35.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\cudart32_50_35.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\cufft32_50_35.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\cvextern.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Emgu.Util.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\packages.config
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\LibSVMsharp.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\ZedGraph.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\LibSVMsharp.pdb
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\npp32_50_35.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_calib3d249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_contrib249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_core249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_features2d249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_gpu249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_ffmpeg249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_flann249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_highgui249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_imgproc249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_legacy249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_ml249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_nonfree249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_objdetect249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_photo249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_stitching249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_video249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_videostab249.dll
+C:\Users\temp\Desktop\0921_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Emgu.CV.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\cublas32_50_35.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\cudart32_50_35.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\cufft32_50_35.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\cvextern.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Emgu.CV.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Emgu.Util.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\npp32_50_35.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_calib3d249.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_contrib249.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_core249.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_features2d249.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_ffmpeg249.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_flann249.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_gpu249.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_highgui249.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_imgproc249.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_legacy249.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_ml249.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_nonfree249.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_objdetect249.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_photo249.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_stitching249.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_video249.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\opencv_videostab249.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\packages.config
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\LibSVMsharp.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\ZedGraph.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\LibSVMsharp.pdb
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Accord.Imaging.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\AForge.Imaging.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Accord.Imaging.xml
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\AForge.Imaging.xml
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Accord.Math.dll
+C:\Users\temp\Desktop\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Accord.Math.xml
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Emgu.CV.UI.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Emgu.Util.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\packages.config
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\x64\concrt140.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\x64\cvextern.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\x64\msvcp140.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\x64\opencv_ffmpeg341_64.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\x64\vcruntime140.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\x86\concrt140.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\x86\cvextern.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\x86\msvcp140.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\x86\opencv_ffmpeg341.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\x86\vcruntime140.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\WpfApplication1.exe
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\WpfApplication1.pdb
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Emgu.CV.World.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\LibSVMsharp.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Microsoft.Kinect.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\ZedGraph.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Emgu.CV.UI.xml
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Emgu.CV.World.xml
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\LibSVMsharp.pdb
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\Microsoft.Kinect.xml
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\ZedGraph.xml
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\sk\ZedGraph.resources.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\sv\ZedGraph.resources.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\ja\ZedGraph.resources.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\it\ZedGraph.resources.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\ru\ZedGraph.resources.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\pt\ZedGraph.resources.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\hu\ZedGraph.resources.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\de\ZedGraph.resources.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\fr\ZedGraph.resources.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\es\ZedGraph.resources.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\bin\Debug\tr\ZedGraph.resources.dll
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\MainWindow.baml
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\App.g.cs
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.csproj.CopyComplete
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.exe
+\\Mac\Home\Downloads\1011_Merging\FallDetectionand FaceRecognition\WpfApplication1\obj\Debug\WpfApplication1.pdb

@@ -1,0 +1,53 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" x:Class="WpfApplication1.MainWindow"
+    Title="MainWindow" Height="804.75" Width="1295.5"  Loaded="WindowLoaded" Closing="WindowClosing">
+    <Grid x:Name="layoutGrid" Background="AliceBlue">
+        <Grid x:Name="VideoGrid1" ClipToBounds="True" HorizontalAlignment="Left" Margin="5 0 0 0">
+            <Image x:Name="ColorImage" Width="1280" Height="960"/>
+            <Image x:Name="SkeletalImage" Margin="0,2,0,0"/>
+
+            <Canvas x:Name="canvas" Background="Transparent" Margin="0,0,0,-102">
+                <Label x:Name="displayforske" Content="" Canvas.Left="280" Canvas.Top="36" Width="761"/>
+                <Label x:Name="Instructuring_Training" Content="" Canvas.Left="772" Canvas.Top="740" Width="186" Height="28"/>
+                <Label x:Name="Label1" Content="" Canvas.Left="243" Canvas.Top="533" Width="165"/>
+                <Label x:Name="total" Content=""  Width="204" FontSize="15"  VerticalAlignment="Bottom" Margin="10 60" />
+                <Label x:Name="floordistance" Content=""  FontSize="15" VerticalAlignment="Bottom" Canvas.Left="10" Canvas.Top="308" Width="204"/>
+                <Label x:Name="posture" Content=""  FontSize="15" VerticalAlignment="Bottom" Margin="10 0"/>
+                <Label x:Name="activity" Content="" FontSize="15"  VerticalAlignment="Bottom" Canvas.Left="10" Canvas.Top="252" Width="204" />
+                <Grid Height="353"  Width="476" Canvas.Left="794" Canvas.Top="634"  >
+                    <Image x:Name="faceimage" Margin="19,137,327,84"/>
+                    <Image x:Name="faceimage1" Margin="368,5,10,248"  />
+                    <Image x:Name="faceimage2" Margin="368,105,10,148"/>
+                    <Image x:Name="faceimage3" Margin="368,205,10,48"/>
+                    <Image x:Name="faceimage4" Margin="270,5,108,248"/>
+                    <Image x:Name="faceimage5" Margin="270,105,108,148" RenderTransformOrigin="0.765,0.505"/>
+                    <Image x:Name="faceimage6" Margin="270,205,108,48"/>
+                    <Image x:Name="faceimage7" Margin="167,5,211,248"/>
+                    <Image x:Name="faceimage8" Margin="167,105,211,148"/>
+                    <Image x:Name="faceimage9" Margin="167,210,211,43"/>
+                </Grid>
+                <Label x:Name="display" Content="" Canvas.Left="280" Canvas.Top="10" Width="761"/>
+                <Button x:Name="facecapture" Content="Add-_Training" Click="facecapture_Click" Height="40" Canvas.Left="815" Canvas.Top="903" Width="130"/>
+                <Label x:Name="Training_result" Content="" Canvas.Left="739" Canvas.Top="667" Width="219" Height="68"/>
+
+            </Canvas>
+        </Grid>
+        <Grid x:Name="VideoGrid2" ClipToBounds="True" HorizontalAlignment="Right" Margin="0,0,5,213">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="239*"/>
+                <RowDefinition Height="46*"/>
+            </Grid.RowDefinitions>
+            <Image x:Name="DepthImage" Width="320" Height="244" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,0"/>
+        </Grid>
+        <StatusBar VerticalAlignment="Bottom" HorizontalAlignment="Center">
+            <CheckBox x:Name="checkBoxSkelOnly" Content="Skeleton Only" Checked="checkBoxSkelOnlyChanged" Unchecked="checkBoxSkelOnlyChanged"/>
+            <Label x:Name="label" Content="No fall detected" Padding="50 0 50 0" FontSize="16" FontFamily="Stencil" Foreground="Lime" Width="244"/>
+        </StatusBar>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="1392,708,-179,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>
